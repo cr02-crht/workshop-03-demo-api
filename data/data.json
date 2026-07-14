@@ -1,0 +1,100 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Kuala Lumpur",
+      "country": "Malaysia",
+      "region": "Asia",
+      "rating": 7,
+      "halalRestaurants": 1250,
+      "prayerFacilities": true,
+      "description": "A leading Muslim-friendly destination known for its halal food scene, mosques, and family-friendly attractions.",
+      "bestSeason": "Year-round",
+      "tags": ["shopping", "food", "family"]
+    },
+    {
+      "id": 2,
+      "name": "Istanbul",
+      "country": "Turkey",
+      "region": "Europe/Asia",
+      "rating": 7,
+      "halalRestaurants": 2100,
+      "prayerFacilities": true,
+      "description": "A historic city bridging two continents, rich in Islamic heritage and halal dining options.",
+      "bestSeason": "Spring, Autumn",
+      "tags": ["history", "culture", "food"]
+    },
+    {
+      "id": 3,
+      "name": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "Middle East",
+      "rating": 7,
+      "halalRestaurants": 1800,
+      "prayerFacilities": true,
+      "description": "A modern Muslim-friendly hub offering luxury travel experiences with extensive halal dining and prayer facilities.",
+      "bestSeason": "Winter",
+      "tags": ["luxury", "shopping", "family"]
+    },
+    {
+      "id": 4,
+      "name": "Singapore",
+      "country": "Singapore",
+      "region": "Asia",
+      "rating": 6,
+      "halalRestaurants": 950,
+      "prayerFacilities": true,
+      "description": "A vibrant city-state with strong halal certification standards and diverse Muslim-friendly amenities.",
+      "bestSeason": "Year-round",
+      "tags": ["food", "family", "shopping"]
+    },
+    {
+      "id": 5,
+      "name": "Jakarta",
+      "country": "Indonesia",
+      "region": "Asia",
+      "rating": 6,
+      "halalRestaurants": 1600,
+      "prayerFacilities": true,
+      "description": "The capital of the world's largest Muslim-majority country, offering abundant halal food and prayer spaces.",
+      "bestSeason": "Dry season (May-Sep)",
+      "tags": ["food", "culture", "city"]
+    },
+    {
+      "id": 6,
+      "name": "London",
+      "country": "United Kingdom",
+      "region": "Europe",
+      "rating": 5,
+      "halalRestaurants": 700,
+      "prayerFacilities": true,
+      "description": "A growing Muslim-friendly destination in Europe with a wide range of halal dining and mosques.",
+      "bestSeason": "Summer",
+      "tags": ["culture", "history", "food"]
+    },
+    {
+      "id": 7,
+      "name": "Cape Town",
+      "country": "South Africa",
+      "region": "Africa",
+      "rating": 5,
+      "halalRestaurants": 320,
+      "prayerFacilities": true,
+      "description": "A scenic coastal city with an established Muslim community and increasing halal travel offerings.",
+      "bestSeason": "Spring, Autumn",
+      "tags": ["nature", "adventure", "food"]
+    },
+    {
+      "id": 8,
+      "name": "Tokyo",
+      "country": "Japan",
+      "region": "Asia",
+      "rating": 4,
+      "halalRestaurants": 280,
+      "prayerFacilities": false,
+      "description": "An emerging Muslim-friendly destination investing in halal certification and prayer room infrastructure.",
+      "bestSeason": "Spring (Cherry Blossom)",
+      "tags": ["culture", "technology", "food"]
+    }
+  ]
+}
